@@ -3,6 +3,6 @@ name = "ada lovelace"
 print(name.title())
 
 # multipy int with float
-print(2*4.0)
+print(2*4)
 
 
