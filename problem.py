@@ -29,6 +29,5 @@ def numb(list):
 
 print(numb([5, 7, 3, 9]))
     
-#ques 4
-def same_count(list):
-    qwedf4crf-[=]
+
+   
