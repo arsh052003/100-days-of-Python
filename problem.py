@@ -29,5 +29,19 @@ def numb(list):
 
 print(numb([5, 7, 3, 9]))
     
-
+# Create a function that takes a number as an argument, increment the number buy +1 and retun the results.
+def addition(num):
+    num = num + 1
+    return num
    
+print(addition(4))
+
+#Write a function that takes an integer minutes and converts it to seconds.
+def convert(minutes):
+    seconds = minutes * 60
+    return seconds
+print(convert(4))
+
+def stutter(word):
+  return word[:2] + '...' + word[:2] + '...' + word + '?'
+print(stutter("happy"))
